@@ -3,7 +3,7 @@
 <img alt="npm version" src="https://img.shields.io/npm/v/eth-wallet-generator.svg">
 <img alt="NPM" src="https://img.shields.io/npm/l/eth-wallet-generator.svg">
 </p>
-CLI for generating Ethereum wallets. Create a new private key and mnemonic.
+Generating new Ethereum wallets via CLI. Create ETH address, private key and mnemonic.
 
 ## Install
 
@@ -12,17 +12,17 @@ npm i eth-wallet-generate
 ```
 ## Use with npx
 ```
-$ npx eth-wallet-generate
+npx eth-wallet-generate
 ```
 
 ## Install
 ```
-$ npm install -g eth-wallet-generate
+npm install -g eth-wallet-generate
 ```
 
 ## Usage:
 ```
-$ eth-wallet-generate
+eth-wallet-generate
 ```
 
 1. Fill the password you desired when prompted
