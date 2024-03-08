@@ -1,0 +1,32 @@
+{
+  "name": "eth-wallet-generate",
+  "version": "1.0.5",
+  "description": "Create Ethereum wallet",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mascrypt0/eth-wallet-generator.git"
+  },
+  "bin": "src/cli.js",
+  "author": {
+    "name": "mascrypt0",
+    "email": "techblogging9@gmail.com"
+  },
+  "keywords": [
+    "ethereum",
+    "cli",
+    "wallet",
+    "npm",
+    "generator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eth-lightwallet": "4.0.0",
+    "eth-wallet-generate": "^1.0.5",
+    "prompt": "1.0.0"
+  }
+}
