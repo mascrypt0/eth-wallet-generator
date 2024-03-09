@@ -3,7 +3,7 @@
 <img alt="npm version" src="https://img.shields.io/npm/v/eth-wallet-generator.svg">
 <img alt="NPM" src="https://img.shields.io/npm/l/eth-wallet-generator.svg">
 </p>
-Generating new Ethereum wallets via CLI. Create ETH address, private key and mnemonic.
+Generating new Ethereum wallets with NPM. Create ETH address, private key and mnemonic.
 
 ## Install
 
